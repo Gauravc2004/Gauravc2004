@@ -130,7 +130,7 @@ Goal:
 
 <div align="center">
 
-![Snake animation](https://github.com/Gauravc2004/Gauravc2004/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Gauravc2004/Gauravc2004/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
