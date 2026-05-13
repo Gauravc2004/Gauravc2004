@@ -25,10 +25,6 @@ Skills:
   - SQL
   - Power BI
   - Excel
-  - Machine Learning
-Goal:
-  Become financially successful through technology
-```
 
 <br><br>
 
